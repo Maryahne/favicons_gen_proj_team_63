@@ -1,0 +1,5 @@
+Task assigned: Style Guides for the Project
+
+Link to the task: https://www.figma.com/file/hF8y8PKgZGtnNGnyYK1P4x/Team-63_FaviconGen?node-id=3%3A2
+
+Link to github issue: https://github.com/zuri-training/favicons_gen_proj_team_63/issues/22
